@@ -1,0 +1,7 @@
+numpy
+pandas
+scikit-learn==1.6.0
+imbalanced-learn==0.12.3
+matplotlib
+seaborn
+jupyter
